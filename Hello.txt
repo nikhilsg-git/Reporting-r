@@ -4,3 +4,4 @@ Modified 2
 Modified 3
 Rebase Example
 Adding this in remote
+stash example
